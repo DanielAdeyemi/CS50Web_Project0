@@ -1,4 +1,4 @@
-## <div align="center"> Google search
+## <div align="center"> Google Search
 
 #### <div align="center">📚 _CS50 Web Project # 0 (Week 1 - 3) 10/03-05/2021_ </div>
 
