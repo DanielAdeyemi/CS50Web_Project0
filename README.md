@@ -5,17 +5,17 @@
 **_<p align="right">By Daniel Adeyemi_**</p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="30"/>
-<img alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /> 
+<img alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+
 </p>
 <div align="center">
 
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/DanielAdeyemi/ParksLookup.Solution/main?color=purple&style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/DanielAdeyemi/ParksLookup.Solution?color=purple&style=for-the-badge) ![Languages](https://img.shields.io/github/languages/top/DanielAdeyemi/ParksLookup.Solution?color=purple&style=for-the-badge)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/DanielAdeyemi/CS50Web_Project0/main?color=purple&style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/DanielAdeyemi/CS50Web_Project0?color=purple&style=for-the-badge) ![Languages](https://img.shields.io/github/languages/top/DanielAdeyemi/CS50Web_Project0?color=purple&style=for-the-badge)
 
 </div>
-<img src="https://cdn.cheapism.com/images/National_Park_Photos.2e16d0ba.fill-1440x605.png" alt="Lake view"/>
+<img src="https://s3.amazonaws.com/images.seroundtable.com/google-rankbrain-1541507760.jpg" alt="google logo"/>
 
 ## 🚩 _Description:_
 
