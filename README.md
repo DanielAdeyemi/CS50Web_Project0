@@ -1,6 +1,6 @@
 ## <div align="center"> Google Search
 
-#### <div align="center">📚 _CS50 Web Project # 0 (Week 1 - 3) 10/03-05/2021_ </div>
+#### <div align="center">📚 _CS50 Web Project # 0 (Week 1 – 3) 10/03-05/2021_ </div>
 
 **_<p align="right">By Daniel Adeyemi_**</p>
 
@@ -36,10 +36,10 @@
 |  7  | Query Advanced |                                          On the Google Advanced Search page, the user should be able to provide input for the following field: "find pages with **this exact word or phrase** "                                           |    ❌     |
 |  8  | Query Advanced |                                              On the Google Advanced Search page, the user should be able to provide input for the following field: "find pages with **any of these words** "                                              |    ❌     |
 |  9  | Query Advanced |                                             On the Google Advanced Search page, the user should be able to provide input for the following field: "find pages with **none of these words** "                                              |    ❌     |
-| 10  |   Appearance   |                                                 Like Google’s own Advanced Search page, the four options should be stacked vertically, and all of the text fields should be left aligned                                                  |    ❌     |
+| 10  |   Appearance   |                                                   Like Google’s own Advanced Search page, the four options should be stacked vertically, and all the text fields should be left aligned                                                   |    ❌     |
 | 11  |   Appearance   |            Consistent with Google’s own CSS, the “Advanced Search” button should be blue with white text. When the “Advanced Search” button is clicked, the user should be taken to search results page for their given query             |    ❌     |
 | 12  |     Lucky      | Add an “I’m Feeling Lucky” button to the main Google Search page. Consistent with Google’s own behavior, clicking this link should take users directly to the first Google search result for the query, bypassing the normal results page |    ❌     |
-| 13  |   Aesthetics   |                                                                                       CSS should match Google’s own aesthetics as best as possible                                                                                        |    ❌     |
+| 13  |   Aesthetics   |                                                                                       CSS should match Google’s own aesthetics as good as possible                                                                                        |    ❌     |
 
 </details>
 <summary> <h3>🛸 Search Documentation</h3></summary>
