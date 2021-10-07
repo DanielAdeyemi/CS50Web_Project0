@@ -1,0 +1,17 @@
+.switchers {
+	display: flex;
+	justify-content: flex-end;
+}
+
+.links-switcher {
+	text-decoration: none;
+	margin-right: 15px;
+}
+
+.links-switcher:hover {
+	font-weight: bold;
+}
+
+.links-switcher:visited {
+	color: blue;
+}
