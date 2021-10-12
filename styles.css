@@ -1,10 +1,10 @@
 .switchers {
 	display: flex;
 	justify-content: flex-end;
-	color: rgba(0, 0, 0, 0.87);
 }
 
 .links-switcher {
+	color: rgba(0, 0, 0, 0.87);
 	text-decoration: none;
 	margin-right: 15px;
 	line-height: 24px;
@@ -16,4 +16,40 @@
 
 .links-switcher:visited {
 	color: rgba(0, 0, 0, 0.87);
+}
+
+.searches {
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	margin-left: 10px;
+}
+
+.field {
+	min-width: 160px;
+	width: 80%;
+	height: 42px;
+	color: #222;
+	font-size: 13px;
+	line-height: 16px;
+	display: flex;
+}
+
+.field > label {
+	align-self: center;
+	width: 15%;
+}
+
+.field > input {
+	max-height: 16px;
+	align-self: center;
+	width: 75%;
+}
+
+form {
+	display: flex;
+	width: auto;
+	height: 100%;
+	flex-direction: column;
+	justify-content: space-around;
 }
