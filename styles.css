@@ -1,3 +1,11 @@
+form {
+	display: flex;
+	width: auto;
+	height: 100%;
+	flex-direction: column;
+	justify-content: space-around;
+}
+
 .switchers {
 	display: flex;
 	justify-content: flex-end;
@@ -19,10 +27,10 @@
 }
 
 .searches {
-	width: 100%;
+	width: 96%;
 	display: flex;
 	flex-direction: column;
-	margin-left: 10px;
+	margin: 40px 2% 0 45px;
 }
 
 .field {
@@ -45,11 +53,22 @@
 	align-self: center;
 	width: 75%;
 }
+#advanced {
+	margin-left: 10px;
+	color: #d93025;
+	font-size: 20px;
+	margin: 25px 35px;
+}
 
-form {
-	display: flex;
-	width: auto;
-	height: 100%;
-	flex-direction: column;
-	justify-content: space-around;
+#line {
+	border-bottom: 1px solid #ebebeb;
+}
+
+#find {
+	float: left;
+	min-width: 167px;
+	width: 16%;
+	font-weight: 500;
+	color: #333;
+	vertical-align: middle;
 }
