@@ -45,7 +45,7 @@ form {
 
 .field > label {
 	align-self: center;
-	width: 15%;
+	width: 20%;
 }
 
 .field > input {
@@ -71,4 +71,10 @@ form {
 	font-weight: 500;
 	color: #333;
 	vertical-align: middle;
+}
+
+#advanced-submit {
+	width: 30%;
+	margin-right: 23%;
+	align-self: flex-end;
 }

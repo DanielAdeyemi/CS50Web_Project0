@@ -77,7 +77,7 @@ http://localhost:5000/api/parks/?location=portland%2C%20or&local=true
 
 - HTML 5
 - CSS 3
-- Bootstrap v5.0
+- Bootstrap v5.1.3
 - Git and GitHub
 
 ## 🖥️ View the project:
