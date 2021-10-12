@@ -9,8 +9,26 @@
 			<a class="links-switcher" href="/index.html">Home</a>
 		</div>
 		<form action="https://google.com/search">
-			<input type="text" name="q" />
-			<input type="submit" value="Google Search" />
+			<div class="field">
+				<label for="all">All these Words:</label>
+				<input type="text" id="all" name="as_q" />
+			</div>
+			<div class="field">
+				<label for="exact">Exact Words:</label>
+				<input type="text" id="exact" name="as_epq" />
+			</div>
+			<div class="field">
+				<label for="any">Any of these Words:</label>
+				<input type="text" id="any" name="as_oq" />
+			</div>
+			<div class="field">
+				<label for="none">None of these Words:</label>
+				<input type="text" id="none" name="as_eq" />
+			</div>
+
+			<input type="submit" value="Advanced Search" />
 		</form>
 	</body>
 </html>
+
+<!-- https://www.google.com/search?as_q=hi+there&as_epq=&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=&as_occt=any&safe=images&as_filetype=&tbs= -->
