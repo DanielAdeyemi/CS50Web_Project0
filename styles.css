@@ -1,17 +1,19 @@
 .switchers {
 	display: flex;
 	justify-content: flex-end;
+	color: rgba(0, 0, 0, 0.87);
 }
 
 .links-switcher {
 	text-decoration: none;
 	margin-right: 15px;
+	line-height: 24px;
 }
 
 .links-switcher:hover {
-	font-weight: bold;
+	text-decoration: underline;
 }
 
 .links-switcher:visited {
-	color: blue;
+	color: rgba(0, 0, 0, 0.87);
 }
