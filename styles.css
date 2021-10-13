@@ -6,6 +6,29 @@ form {
 	justify-content: space-around;
 }
 
+.main-btn {
+	display: inline-block;
+	width: 45%;
+	background-color: #f8f9fa;
+	border: 1px solid #f8f9fa;
+	border-radius: 4px;
+	color: #3c4043;
+	font-family: arial, sans-serif;
+	font-size: 14px;
+	margin: 11px 4px;
+	padding: 0 16px;
+	line-height: 27px;
+	height: 36px;
+	min-width: 54px;
+	text-align: center;
+	cursor: pointer;
+}
+
+.main-btn:hover {
+	box-shadow: #ebebeb;
+	border: 1px solid #b0b4b8;
+}
+
 .switchers {
 	display: flex;
 	justify-content: flex-end;
