@@ -84,6 +84,8 @@ http://localhost:5000/api/parks/?location=portland%2C%20or&local=true
 
 ## 🐛 _Known bugs:_
 
+- could make style more precise with Google own
+
 ## 🌟 _Improvement opportunities:_
 
 ## 📬 Contact Information
