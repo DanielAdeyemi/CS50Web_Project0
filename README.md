@@ -1,6 +1,6 @@
 ## <div align="center"> Google Search
 
-#### <div align="center">📚 _CS50 Web Project # 0 (Week 1 – 3) 10/03-05/2021_ </div>
+#### <div align="center">📚 _CS50 Web Project # 0 (Week 1 – 3) 10/03-20/2021_ </div>
 
 **_<p align="right">By Daniel Adeyemi_**</p>
 
