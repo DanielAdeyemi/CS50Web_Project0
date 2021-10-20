@@ -19,7 +19,7 @@
 
 ## 🚩 _Description:_
 
-#### **\*\***
+#### **_Google Search mock up website with my own front end for Google Search, made by exploring Google’s interface to identify what GET parameters it expects and adding the necessary HTML and CSS to the website._**
 
 <hr>
 <summary><h3>📋 Project Specifications </h3></summary>
@@ -44,33 +44,18 @@
 </details>
 <summary> <h3>🛸 Search Documentation</h3></summary>
 
-#### **HTTP Request Structure:**
-
-```
-GET /api/parks
-GET /api/parks/{id}
-
-```
-
 #### **Path Parameters:**
 
-| Parameter |  Type  | Default | Required | Description                                                                                      |
-| :-------: | :----: | :-----: | :------: | ------------------------------------------------------------------------------------------------ |
-| ParkName  | string |  none   |  false   | Return matches by name.                                                                          |
-| Location  | string |  none   |  false   | Return matches by location (check note below for comma separated locations such `Portland, OR`). |
-| National  |  bool  |  none   |  false   | Return all parks marked as **National**                                                          |
-|   Local   |  bool  |  none   |  false   | Return all parks marked as **Local**                                                             |
-
-_⚠️ Note: for comma-separated locations, such `Portland, OR` use following path:_
-
-```
-?location=portland%2C%20or
-```
+| Parameter | Default | Required | Description                   |
+| :-------: | :-----: | :------: | ----------------------------- |
+|   none    |  true   |  false   | Return Google Search page     |
+|   image   |  false  |  false   | Return Google image search    |
+| advanced  |  false  |  false   | Return advanced google search |
 
 #### **Example Query:**
 
 ```
-http://localhost:5000/api/parks/?location=portland%2C%20or&local=true
+http://localhost:5000/advanced
 ```
 
 ## 🛠️ _Technologies used:_
