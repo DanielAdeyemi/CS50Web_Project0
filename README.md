@@ -39,7 +39,7 @@
 | 10  |   Appearance   |                                                   Like Google’s own Advanced Search page, the four options should be stacked vertically, and all the text fields should be left aligned                                                   |    ✅     |
 | 11  |   Appearance   |            Consistent with Google’s own CSS, the “Advanced Search” button should be blue with white text. When the “Advanced Search” button is clicked, the user should be taken to search results page for their given query             |    ✅     |
 | 12  |     Lucky      | Add an “I’m Feeling Lucky” button to the main Google Search page. Consistent with Google’s own behavior, clicking this link should take users directly to the first Google search result for the query, bypassing the normal results page |    ✅     |
-| 13  |   Aesthetics   |                                                                                       CSS should match Google’s own aesthetics as good as possible                                                                                        |    ❌     |
+| 13  |   Aesthetics   |                                                                                       CSS should match Google’s own aesthetics as good as possible                                                                                        |    ✅     |
 
 </details>
 <summary> <h3>🛸 Search Documentation</h3></summary>
