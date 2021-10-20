@@ -23,6 +23,7 @@ form {
 	min-width: 54px;
 	text-align: center;
 	cursor: pointer;
+	text-decoration: none;
 }
 
 .main-btn:hover {
@@ -112,5 +113,16 @@ form {
 
 input[type="text"] {
 	width: 70%;
-	height: 20px;
+	background: #fff;
+	display: flex;
+	border: 1px solid #dfe1e5;
+	box-shadow: none;
+	border-radius: 24px;
+	z-index: 3;
+	height: 44px;
+	margin: 0 auto;
+	max-width: 584px;
+	text-align: center;
+	font-size: 20px;
+	font-weight: normal;
 }
