@@ -67,6 +67,8 @@ http://localhost:5000/advanced
 
 ## 🖥️ View the project:
 
+You can access video demonstration of the project functionallity [here](https://youtu.be/COEqBrtfsic)
+
 ## 🐛 _Known bugs:_
 
 - no bugs at this time
