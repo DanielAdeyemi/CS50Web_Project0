@@ -154,3 +154,14 @@ input[type="text"] {
 	width: 272px;
 	height: 92px;
 }
+
+#img-word {
+	display: flex;
+	align-self: center;
+	margin: -21px -217px 0 0;
+	color: #4285f4;
+	font-size: 16px;
+	font-family: arial, sans-serif;
+	position: relative;
+	white-space: nowrap;
+}
