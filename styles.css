@@ -13,8 +13,8 @@ form {
 }
 
 .main-btn {
+	box-sizing: border-box;
 	display: inline-block;
-	width: 45%;
 	background-color: #f8f9fa;
 	border: 1px solid #f8f9fa;
 	border-radius: 4px;
@@ -28,7 +28,7 @@ form {
 	min-width: 54px;
 	text-align: center;
 	cursor: pointer;
-	text-decoration: none;
+	user-select: none;
 }
 
 .main-btn:hover {
@@ -148,9 +148,9 @@ input[type="text"] {
 }
 
 .logo > img {
-	max-height: 92px;
 	position: relative;
 	object-fit: contain;
 	object-position: center bottom;
 	width: 272px;
+	height: 92px;
 }
