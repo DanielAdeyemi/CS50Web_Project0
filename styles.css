@@ -1,7 +1,8 @@
 form {
 	display: flex;
 	height: 100%;
-	width: 50%;
+	/* width: 50%; */
+	align-items: center;
 	flex-direction: column;
 	justify-content: space-around;
 }
@@ -107,4 +108,9 @@ form {
 	color: #fff;
 	border: 1px solid #2f5bb7;
 	border-image: -webkit-linear-gradient(top, #4d90fe, #357ae8);
+}
+
+input[type="text"] {
+	width: 70%;
+	height: 20px;
 }
