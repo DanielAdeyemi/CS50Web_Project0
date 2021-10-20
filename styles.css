@@ -155,13 +155,19 @@ input[type="text"] {
 	height: 92px;
 }
 
+.img-main {
+	top: -50%;
+	transform: translate(0, 50%);
+	padding: 10px;
+}
+
 #img-word {
 	display: flex;
 	align-self: center;
 	margin: -21px -217px 0 0;
 	color: #4285f4;
 	font-size: 16px;
-	font-family: arial, sans-serif;
 	position: relative;
+	font-family: arial, sans-serif;
 	white-space: nowrap;
 }
